@@ -15,3 +15,7 @@ Create a new branch named branchName.
 Create and go to a branch named branchName.
 
 Before you intend to merge a branch, pull from 'master' locally.
+
+Make sure you pull from 'origin master' locally after you've merged on GitHub otherwise local master will be old master.
+
+
