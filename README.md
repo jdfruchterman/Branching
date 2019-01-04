@@ -15,3 +15,6 @@ Create a new branch named branchName.
 Create and go to a branch named branchName.
 
 Before you intend to merge a branch, pull from 'master' locally.
+
+'git checkout branchName' to switch branches.
+
