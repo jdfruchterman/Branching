@@ -13,3 +13,5 @@ Create a new branch named branchName.
 'git checkout -b branchName'
 
 Create and go to a branch named branchName.
+
+Before you intend to merge a branch, pull from 'master' locally.
