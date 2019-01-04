@@ -18,3 +18,6 @@ Before you intend to merge a branch, pull from 'master' locally.
 
 'git checkout branchName' to switch branches.
 
+Make sure you pull from 'origin master' locally after you've merged on GitHub otherwise local master will be old master.
+
+
